@@ -18,14 +18,14 @@ Soy una persona con mucha curiosidad, entusiasta y proactiva, que siempre está 
 <br/>  
 
 ## Rapidfire  
-- 🔭 Estoy busqueda de nuevos retos de Data.
+- 🔭 Estoy en busqueda de fortaceler y sumar mis conocimientos en el mundo de Data.
   
 - 🌱 Actualmente estoy fortaleciendo conocimientos en tecnologías Cloud y ML.  
 
 - ❓ Preguntame acerca de Ciencia de Datos y te ayudare con gusto  
 
 - 📫 Mi contactó es: **hansonaron1101@gmail.com**
-- 
+
 <br/>
 
 ## Skills
