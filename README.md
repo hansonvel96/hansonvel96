@@ -1,3 +1,4 @@
+<img src="https://www.marketeroslatam.com/wp-content/uploads/2016/10/recoleccion-de-datos-portada-2-1-1000x667.jpg">
 # <div align="center">Hola👋, Soy Hanson Aaron!</div>  
 <div align="center">
 <a href="https://github.com/hansonvel96" target="_blank">
@@ -7,8 +8,13 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
-<img src="https://www.marketeroslatam.com/wp-content/uploads/2016/10/recoleccion-de-datos-portada-2-1-1000x667.jpg">
 
+## ✍️¿Quién soy?  
+Bachiller de la carrera de Ingeniera de Computación y Sistemas, cuento con la certificación ISTQB® Certified Tester Foundation Level, Certificado en Pruebas de Rendimiento y Carga con 3 años de experiencia en Aseguramiento de la Calidad de Software enfocándo en el rubro Banca realizando Pruebas Funcionales, Pruebas de Servicios, Pruebas de Performance, Integración ,Humo y Regresión por parte Back y Front.
+Actualmente me encuentro estudiando Ingles, cursando bootcamps de Data Sciencie con experiencia en herramientas como Phyton, SQL, Power BI entre otras herramientas utiles sobre el mundo de data. He realizado proyectos tanto a nivel universitario como manera personal dentro de la cursadas, que me han sumado muchos conocimientos.
+
+Soy una persona con mucha curiosidad, entusiasta y proactiva, que siempre está en busca de nuevos retos. Desde siempre me vi atraído por el mundo de las tecnologia, ultimamente con miras por el mundo de la Ciencia de Datos.
+<br/>  
 <!--
 **hansonvel96/hansonvel96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
