@@ -11,10 +11,27 @@
 
 ## ✍️¿Quién soy?  
 Bachiller de la carrera de Ingeniera de Computación y Sistemas, cuento con la certificación ISTQB® Certified Tester Foundation Level, Certificado en Pruebas de Rendimiento y Carga con 3 años de experiencia en Aseguramiento de la Calidad de Software enfocándo en el rubro Banca realizando Pruebas Funcionales, Pruebas de Servicios, Pruebas de Performance, Integración ,Humo y Regresión por parte Back y Front.
-Actualmente me encuentro estudiando Ingles, cursando bootcamps de Data Sciencie con experiencia en herramientas como Phyton, SQL, Power BI entre otras herramientas utiles sobre el mundo de data. He realizado proyectos tanto a nivel universitario como manera personal dentro de la cursadas, que me han sumado muchos conocimientos.
+
+Actualmente me encuentro estudiando Ingles, Graduado de mi ultimo bootcamps de Data Sciencie con experiencia en herramientas como Phyton, SQL, Power BI entre otras herramientas utiles sobre el mundo de data. He realizado proyectos tanto a nivel universitario como manera personal dentro de la cursadas, que me han sumado muchos conocimientos para nuevos retos profesionales.
 
 Soy una persona con mucha curiosidad, entusiasta y proactiva, que siempre está en busca de nuevos retos. Desde siempre me vi atraído por el mundo de las tecnologia, ultimamente con miras por el mundo de la Ciencia de Datos.
 <br/>  
+
+## Rapidfire  
+
+- 🔭 Estoy busqueda de nuevos retos de Data.
+  
+
+- 🌱 Actualmente estoy aprendiendo tecnologías Cloud y ML. 
+  
+
+- ❓ Preguntame acerca de Ciencia de Datos y te ayudare con gusto  
+
+
+- 📫 Mi contactó es: **hansonaron1101@gmail.com**
+
+<br/>  
+
 <!--
 **hansonvel96/hansonvel96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
