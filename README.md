@@ -1,6 +1,5 @@
 <img src="https://www.marketeroslatam.com/wp-content/uploads/2016/10/recoleccion-de-datos-portada-2-1-1000x667.jpg">
-
-##<div align="center"> Hola 👋, Soy Hanson Aaron!</div>   
+<h1 <div align="center"> Hola 👋, Soy Hanson Aaron!</div> </h1>
 <div align="center">
 <a href="https://github.com/hansonvel96" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
