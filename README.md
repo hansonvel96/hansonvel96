@@ -1,7 +1,5 @@
-## Hi there 👋
-
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://aristi.dev">Hanson A</a> 👋</h1>
+<h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/hansonvel/">Hanson Aaron</a> 👋</h1>
 </div>
 <img src="https://www.pngwing.com/es/free-png-hjvsb">
 
