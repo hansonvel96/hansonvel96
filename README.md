@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/hansonvel/">Hanson Aaron</a> 👋</h1>
 </div>
-<img src="https://www.pngwing.com/es/free-png-hjvsb">
+<img src="[https://www.pngwing.com/es/free-png-hjvsb](https://www.marketeroslatam.com/wp-content/uploads/2016/10/recoleccion-de-datos-portada-2-1-1000x667.jpg)">
 
 <!--
 **hansonvel96/hansonvel96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
